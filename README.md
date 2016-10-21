@@ -24,6 +24,13 @@ Demo
 Usage
 =====
 
+**NPM**
+
+```
+npm install counterupplusway
+```
+
+
 **Include**
 
 ```

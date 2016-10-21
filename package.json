@@ -1,0 +1,21 @@
+{
+  "name": "counterupplusway",
+  "version": "1.0.1",
+  "title": "Counter-Up + Waypoint",
+  "description": "A lightweight jQuery plugin that counts up to a targeted number when the number becomes visible.",
+  "homepage": "https://github.com/MaximusFT/Counter-Up",
+  "author": {
+    "name": "Benjamin Intal",
+    "url": "https://github.com/bfintal/"
+  },
+  "bugs": "https://github.com/MaximusFT/Counter-Up/issues",
+  "licenses": [
+    {
+      "type": "GPL2",
+      "url": "https://raw.github.com/bfintal/Counter-Up/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.5"
+  }
+}

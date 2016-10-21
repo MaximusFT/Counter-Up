@@ -1,0 +1,5 @@
+node-modules
+.node-modules/
+~/.node-modules/
+.npm-debug.log
+README.md
